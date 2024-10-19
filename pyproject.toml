@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "api-test"
+version = "0.1.0"
+description = ""
+authors = ["MaksFuji <70910855+MaksFuji@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
